@@ -1,6 +1,6 @@
 #  Gene Association Network Visualization
 
-This repository presents an interactive web-based tool for visualizing a gene association network centered on **GCH1** in normal tissues. Genes with a high Pearson correlation coefficient (PCC ≥ 0.8) to GCH1 are displayed as nodes within a tissue-specific cluster layout.
+This repository presents an interactive web-based tool for visualizing a gene association network centered on **GCH1** in tumor tissues. Genes with a high Pearson correlation coefficient (PCC ≥ 0.8) to GCH1 are displayed as nodes within a tissue-specific cluster layout.
 
 ** Web Application**  
 Access the live visualization here:  
